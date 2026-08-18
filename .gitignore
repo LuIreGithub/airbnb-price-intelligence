@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+ia_env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.parquet
+data/*.json
+
+# Environment variables / secrets
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
