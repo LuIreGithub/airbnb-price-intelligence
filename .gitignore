@@ -24,3 +24,6 @@ data/*.json
 # OS files
 .DS_Store
 Thumbs.db
+
+# Experimental notebooks
+notebooks/airbnb_marseille_experiments.ipynb
